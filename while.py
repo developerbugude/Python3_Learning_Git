@@ -7,5 +7,5 @@ while a > 10:
         break
     a=a+1
 else:
-    print("a = ", a)
+    print("a < 10 = ", a)
 print("exit of while loop")
