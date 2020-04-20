@@ -1,3 +1,4 @@
+# this is a comment.
 a=int(input("Enter a ="))
 while a > 10:
     if a <= 100:
